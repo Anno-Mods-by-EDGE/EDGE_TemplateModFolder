@@ -1,3 +1,0 @@
-Trade ships will now be created with great white flag.
-By EDGE Gaming
-v1.0
