@@ -1,6 +1,6 @@
 {
   "Version": "1",
-  "ModID": "EDGE_ArcticHeating",
+  "ModID": "EDGE_TemplateMod",
   "IncompatibleIds": [
   ],
   "ModDependencies": null,
@@ -34,7 +34,7 @@
     "Chinese": null,
     "English": "Adds heaters for the arctic region, which generate heat from gas. They have a 50% larger radius.",
     "French": null,
-    "German": "Fügt Gasheizungen für die Arktisregion ein, die mit Gas heizen. Ihr Wärmeradius ist 50% größer als der der Kohleheizungen.",
+    "German": null,
     "Italian": null,
     "Japanese": null,
     "Korean": null,
@@ -46,7 +46,7 @@
   "KnownIssues": null,
   "DLCDependencies": [
     {
-      "DLC": "ThePassage",
+      "DLC": "any",
       "Dependant": "required"
     }
   ],
