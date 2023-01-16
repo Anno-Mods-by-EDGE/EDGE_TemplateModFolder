@@ -19,9 +19,9 @@
   },
   "ModName": {
     "Chinese": null,
-    "English": "Gas Heater",
+    "English": null,
     "French": null,
-    "German": "Gasheizung",
+    "German": null,
     "Italian": null,
     "Japanese": null,
     "Korean": null,
@@ -32,7 +32,7 @@
   },
   "Description": {
     "Chinese": null,
-    "English": "Adds heaters for the arctic region, which generate heat from gas. They have a 50% larger radius.",
+    "English": null,
     "French": null,
     "German": null,
     "Italian": null,
@@ -51,6 +51,6 @@
     }
   ],
   "CreatorName": "EDGE Gaming",
-  "CreatorContact": "",
+  "CreatorContact": "Mats@EDGEGaming.no",
   "Image" : null
 }
